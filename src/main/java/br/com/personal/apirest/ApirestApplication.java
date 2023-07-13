@@ -1,6 +1,5 @@
 package br.com.personal.apirest;
 
-import br.com.personal.apirest.domain.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
